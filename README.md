@@ -1,1 +1,1 @@
-# numpy-journal
+I am an absolute beginner in computer vision, currently focusing on learning essential Python libraries like OpenCV, NumPy, and Matplotlib. My goal is to build a solid foundation before exploring more advanced topics and deep learning techniques. I plan to take things step by step, experimenting with small projects and gradually diving deeper into the field. Let’s see where this journey takes me!
